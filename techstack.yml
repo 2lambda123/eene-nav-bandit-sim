@@ -1,0 +1,120 @@
+repo_name: 2lambda123/eene-nav-bandit-sim
+report_id: 63b5d2b09d26fec90a8c94921e90bb4e
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:15:27+00:00'
+requested_by: nakerblo
+provider: github
+branch: main
+detected_tools_count: 9
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/eene-nav-bandit-sim
+  detection_source: Repo Metadata
+- name: Matplotlib
+  description: A plotting library for the Python programming language
+  website_url: http://matplotlib.org
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/eene-nav-bandit-sim/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: nakerblo
+  last_updated_on: 2023-11-14 22:06:35.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/eene-nav-bandit-sim
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/eene-nav-bandit-sim/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: nakerblo
+  last_updated_on: 2023-11-14 13:32:51.000000000 Z
+- name: pytest
+  description: A full-featured Python testing tool to help you write better programs
+  website_url: http://pytest.org/latest/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
+  detection_source_url: https://github.com/2lambda123/eene-nav-bandit-sim/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: nakerblo
+  last_updated_on: 2023-11-14 22:06:35.000000000 Z
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/2lambda123/eene-nav-bandit-sim/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: nakerblo
+  last_updated_on: 2023-11-14 13:32:51.000000000 Z
+- name: SciPy
+  description: Scientific Computing Tools for Python
+  website_url: http://www.scipy.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source_url: https://github.com/2lambda123/eene-nav-bandit-sim/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: nakerblo
+  last_updated_on: 2023-11-14 13:32:51.000000000 Z
+- name: networkx
+  description: Python package for creating and manipulating graphs and networks
+  package_url: https://pypi.org/project/networkx
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19877/default_8902c10687fbcd6273bdbe119fff40fa1180763f.png
+  detection_source_url: https://github.com/2lambda123/eene-nav-bandit-sim/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: nakerblo
+  last_updated_on: 2023-11-14 13:43:36.000000000 Z
+- name: pandas
+  description: Powerful data structures for data analysis
+  package_url: https://pypi.org/project/pandas
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/2lambda123/eene-nav-bandit-sim/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: nakerblo
+  last_updated_on: 2023-11-14 13:32:51.000000000 Z
